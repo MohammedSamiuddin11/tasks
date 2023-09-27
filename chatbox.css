@@ -1,0 +1,80 @@
+.logo img{
+    height: 60px;
+    width: 120px;
+}
+.down img{
+    border-radius: 30px;
+    margin-left: 350px;
+    width: 800px;
+    margin-top: 150px;
+}
+.first{
+    height: 800px;
+}
+.imgs img{
+    height: 50px;
+    width: 100px;
+margin-top: 300px;
+margin-left: 150px;
+}
+.reason{
+    margin-left: 400px;
+    margin-top: 50px;
+}
+.cards{
+    display: flex;
+    margin-left: 300px;
+}
+.cards .card{
+height: 250px;
+width: 250px;
+margin-right: 80px;
+margin-top: 100px;
+}
+.cards .card:hover{
+    background-color: rgb(118, 118, 229);
+}
+.middle{
+    display: flex;
+}
+.middle .card{
+    height: 400px;
+    width: 250px;
+}
+.card img{
+    height: 400px;
+    width: 300px;
+}
+.chatboximg img{
+    height: 500px;
+    width: 800px;
+    border-radius: 30px;
+    margin-top: 50px;
+    margin-left: 300px;
+}
+
+.stay{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 100px;
+}
+.footer{
+    background-color: black;
+    height: 500px;
+}
+.links{
+    justify-content: space-around;
+    display: flex;
+}
+.home a,.features a,.socialmedia a{
+    color: white;
+}
+.try button{
+padding-left: 20px;
+padding-right: 20px;
+padding-top: 10px;
+padding-bottom: 10px;
+}
+body{
+    z-index: -50px;
+}
